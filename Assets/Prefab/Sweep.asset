@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 129547a8453adb743a69e3ea54168182, type: 3}
+  m_Name: Sweep
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1971003561789627985, guid: 42323e8989637fc49806f08936a37fd0, type: 3}
+  speed: 4
+  damage: 1

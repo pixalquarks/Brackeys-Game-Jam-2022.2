@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - key
+  - projectile
+  - VirtualCam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Test
+  - Boundaries
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2636549515
+    locked: 0
+  - name: Barrier
+    uniqueID: 183495187
+    locked: 0
+  - name: Enemies
+    uniqueID: 1856295139
+    locked: 0
+  - name: Player
+    uniqueID: 1268538645
+    locked: 0
+  - name: Canvas
+    uniqueID: 2913736743
+    locked: 0
